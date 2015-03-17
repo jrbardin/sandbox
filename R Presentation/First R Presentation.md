@@ -1,19 +1,9 @@
 First R Presentation
 ===
 author: Jess Bardin
-date: Tue Mar 17 16:09:28 2015
+date: Tue Mar 17 16:27:48 2015
 
-First Slide
-========================================================
-
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-Slide With Code
+Let's look at a summary of the cars dataset
 ========================================================
 
 
@@ -27,7 +17,7 @@ Slide With Code
  Max.   :25.0   Max.   :120.00  
 ```
 
-Slide With Plot
+Now let's plot the dataset
 ========================================================
 
 ![plot of chunk unnamed-chunk-2](First R Presentation-figure/unnamed-chunk-2-1.png) 
